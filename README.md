@@ -1,12 +1,10 @@
-# Proyecto Web Franquicias Venezuela
-====================================
+Proyecto Web Franquicias Venezuela
+==================================
 
 ## Resumen
-----------
 Este proyecto contiene las fuentes de la pagina web de Franquicias Venezuela, la pagina esta desarrollada con HTML5, CSS3, JavaScript, Bootstrap, JQuery y Popper.js. La pagina es 100% responsive
 
 ## Instrucciones
-----------------
 Clona el repositorio, asegurate de tener node.js instalado en tu equipo y ejecuta los siguientes comandos:
 + npm install
 + grunt copy
