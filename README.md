@@ -10,8 +10,8 @@ Clona el repositorio, asegurate de tener node.js instalado en tu equipo y ejecut
 + grunt copy
 + npm run dev
 
-# Licencia
+## Licencia
 Este proyecto esta bajo la licencia MIT, la cual esta contenida en el archivo LICENSE en el directorio raíz del proyecto
 
-# Información de contacto
+## Información de contacto
 Para contactarme puede escribirme al siguiente correo [manuelparra@live.com.ar](mailto:manuelparra@live.com.ar)
